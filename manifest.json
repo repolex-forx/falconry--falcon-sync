@@ -1,0 +1,36 @@
+{
+  "manifest_version": "1.0",
+  "org": "falconry",
+  "repo": "falcon-sync",
+  "versions": [
+    {
+      "commit": "c3a3eefdd8918401f3cc45e944b5efb48fdb00ef",
+      "parsed_at": "2026-10-12T01:58:12.181279+00:00",
+      "filetree": "filetree/c3a3eefdd8918401f3cc45e944b5efb48fdb00ef.nq.gz",
+      "blobs": [
+        "blob/dac91d02f954eb805cd09c101694e144c64fd389.nq.gz",
+        "blob/b914cdc224d7fd0d96b278a79511d3779c4f1d1a.nq.gz",
+        "blob/0897949718c2ba20b6b0ec792d1697beeaf935f8.nq.gz",
+        "blob/ceed4a9e53e38b3ad07cdba29a50030fb07ad858.nq.gz",
+        "blob/5ed56a5eb0910a7b5d1e6f025eea2e1a0d0b00dd.nq.gz",
+        "blob/82f927558a3dff0ea8c20858856e70779fd02c93.nq.gz",
+        "blob/a3ba279e1308938c1153405a0642299cee050688.nq.gz",
+        "blob/7ac5ee68ce608afebf904fbdf1c4c208fae22559.nq.gz",
+        "blob/261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64.nq.gz",
+        "blob/fc2680ccde89f917d3ca47556d53191b8eea6467.nq.gz",
+        "blob/2d3caac55385ba782de5ce59b469512ec46caac6.nq.gz",
+        "blob/5a81d024813c668116448f9b2ba70e5a6071946a.nq.gz",
+        "blob/3c0e2f4ef087b344e41c3e42796fc197478e54f7.nq.gz",
+        "blob/a7af6d9aa87384ec86ccf427c3ee739400532205.nq.gz",
+        "blob/7318dc9352f6650251c7890238e3f8b8ef7486ea.nq.gz",
+        "blob/166b65e08d47e29331d407f4e82d7b855894483e.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/43994abdcb383098e66902d1dc65785b3adad3fb.nq.gz",
+        "blob/2a811e40f6b2ace647c104f9c2cdb02806f440ee.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}

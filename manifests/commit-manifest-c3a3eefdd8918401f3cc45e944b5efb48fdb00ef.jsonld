@@ -1,0 +1,38 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/falconry/falcon-sync/commit/c3a3eefdd8918401f3cc45e944b5efb48fdb00ef",
+  "@type": "git:Commit",
+  "git:hexsha": "c3a3eefdd8918401f3cc45e944b5efb48fdb00ef",
+  "repolex:repository": {
+    "@id": "https://repolex.ai/r/falconry/falcon-sync"
+  },
+  "repolex:graphFile": [
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "filetree",
+      "repolex:graphFilePath": "filetree/c3a3eefdd8918401f3cc45e944b5efb48fdb00ef.nq.gz",
+      "repolex:graphFileSize": 2684
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "commit",
+      "repolex:graphFilePath": "commit/commit.nq.gz",
+      "repolex:graphFileSize": 2345
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "branch",
+      "repolex:graphFilePath": "branch/branch.nq.gz",
+      "repolex:graphFileSize": 409
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "tag",
+      "repolex:graphFilePath": "tag/tag.nq.gz",
+      "repolex:graphFileSize": 454
+    }
+  ],
+  "repolex:parseStatus": "metadata_complete",
+  "repolex:parsedAt": "2026-10-12T01:58:12.181279+00:00",
+  "repolex:parserVersion": "0.1.10"
+}
